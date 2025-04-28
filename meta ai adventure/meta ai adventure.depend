@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1745711535 source:c:\users\ruthe\onedrive\desktop\meta ai adventure\items.c
+
+1745712783 source:c:\users\ruthe\onedrive\desktop\meta ai adventure\location.c
+	"location.h"
+	<stdio.h>
+
+1745712783 c:\users\ruthe\onedrive\desktop\meta ai adventure\location.h
+
+1745712783 source:c:\users\ruthe\onedrive\desktop\meta ai adventure\main.c
+	"game.h"
+
+1745712783 c:\users\ruthe\onedrive\desktop\meta ai adventure\game.h
+
+1745712783 source:c:\users\ruthe\onedrive\desktop\meta ai adventure\game.c
+	"game.h"
+	"location.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
